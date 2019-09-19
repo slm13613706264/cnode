@@ -1,0 +1,3 @@
+export const HOME_LIST = 'HOME_LIST'
+export const HOME_LIST_UPDATING = 'HOME_LIST_UPDATING'
+export const HOME_LIST_ERROR = 'HOME_LIST_ERROR'

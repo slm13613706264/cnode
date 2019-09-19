@@ -1,0 +1,8 @@
+.ant-card {
+    border: 1px solid #ccc;
+    width: 980px;
+    margin: 0 auto;
+}
+.ant-card-head{
+    background: #fafafa
+}

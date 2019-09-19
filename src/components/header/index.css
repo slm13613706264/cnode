@@ -1,0 +1,16 @@
+.header * {
+    color: #fff;
+}
+.header {
+    overflow: hidden;
+}
+.ant-menu {
+    background: none;
+    border-bottom: none
+}
+.ant-menu-horizontal > .ant-menu-item > a {
+    color: #fff
+}
+.ant-menu-horizontal {
+    line-height: 62px
+}
